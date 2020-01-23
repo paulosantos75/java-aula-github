@@ -3,7 +3,7 @@ import java.util.Locale;
 public class Main {
 
 	public static void main(String[] args) {
-		double x = 10.35784;
+	/*	double x = 10.35784;
 		System.out.println(x);
 		
 		
@@ -16,6 +16,8 @@ public class Main {
 		System.out.printf("%.4f%n", x);
 		System.out.println("Resultado1 = " + x + " metros");
 		System.out.printf("Resultado2 = %.2f metros%n", x);
+		*/
+		System.out.println("Bom dia pessoal");
 	}
 
 }
