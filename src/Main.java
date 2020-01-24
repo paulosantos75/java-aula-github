@@ -18,6 +18,7 @@ public class Main {
 		System.out.printf("Resultado2 = %.2f metros%n", x);
 		*/
 		System.out.println("Bom dia pessoal");
+		System.out.println("Bom tarde pessoal");
 	}
 
 }
